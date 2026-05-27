@@ -275,7 +275,7 @@ GitHub: https://github.com/dokess
 
 Bu proje **MIT License** ile lisanslanmıştır.
 
-Detaylar için [`LICENCE`](.LICENCE) dosyasını inceleyebilirsiniz.
+Detaylar için [`LICENSE`](.LICENSE) dosyasını inceleyebilirsiniz.
 ---
 
 ## Destek
